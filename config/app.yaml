@@ -1,0 +1,12 @@
+environment: development
+
+cors:
+  allowed_origins:
+    - http://localhost:3000
+    - http://127.0.0.1:3000
+  # Applied only when environment is development. Production defaults must disable it.
+  allow_local_network_origins: true
+
+model_adapter: mock
+backend_port: 8000
+frontend_port: 3000

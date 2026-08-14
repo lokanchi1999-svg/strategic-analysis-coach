@@ -1,0 +1,6 @@
+id: five_forces
+type: analysis
+version: 0.1.0
+name: {en: "Porter's Five Forces", zh: 波特五力}
+dimensions: [rivalry, supplier_power, buyer_power, threat_of_entry, threat_of_substitutes]
+depth_levels: [1, 2, 3, 4]

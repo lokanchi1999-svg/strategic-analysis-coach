@@ -1,0 +1,3 @@
+[
+  {"id":"FRAMEWORK-DEV-001","category":"framework_selection","input":{"mode":"free","student_response":"I select five_forces"},"expected":{"selected_skill":"five_forces"},"notes":"DEVELOPMENT PLACEHOLDER — NOT INSTRUCTOR-VALIDATED"}
+]

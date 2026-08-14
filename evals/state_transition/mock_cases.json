@@ -1,0 +1,3 @@
+[
+  {"id":"STATE-DEV-001","category":"state_transition","input":{"mode":"guided","skill_id":"five_forces","student_response":"DEVELOPMENT PLACEHOLDER response"},"expected":{"advance":false,"recommended_action":"PROBE_EVIDENCE"},"notes":"DEVELOPMENT PLACEHOLDER — NOT INSTRUCTOR-VALIDATED"}
+]
